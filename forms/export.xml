@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<b:Sources xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography">
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Overlapping community detection using graph attention networks</b:Title>
+    <b:Year>2025</b:Year>
+    <b:Month>2</b:Month>
+    <b:StandardNumber>0167739X</b:StandardNumber>
+    <b:Publisher>Elsevier B.V.</b:Publisher>
+    <b:JournalName>Future Generation Computer Systems</b:JournalName>
+    <b:Volume>163</b:Volume>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Konstantinos</b:First>
+            <b:Last>Sismanis</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Petros</b:First>
+            <b:Last>Potikas</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Dora</b:First>
+            <b:Last>Souliou</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Aris</b:First>
+            <b:Last>Pagourtzis</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>overlapping-community-detection-using-graph-attention-networks</b:Tag>
+  </b:Source>
+</b:Sources>

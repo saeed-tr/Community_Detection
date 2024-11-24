@@ -1,0 +1,19 @@
+TY  - JOUR
+AB  - Community detection is a research area with increasing practical significance. Successful examples of its application are found in many scientific areas like social networks, recommender systems and biology. Deep learning has achieved many successes (Miotto et al., 2018; Voulodimos et al., 2018) on various graph related tasks and is recently used in the field of community detection, offering accuracy and scalability. In this paper, we propose a novel method called Attention Overlapping Community Detection (AOCD) a method that incorporates an attention mechanism into the well-known method called Neural Overlapping Community Detection (NOCD) (Shchur and Günnemann, 2019) to discover overlapping communities in graphs. We perform several experiments in order to evaluate our proposed method's ability to discover ground truth communities. Compared to NOCD, increased performance is achieved in many cases.
+AU  - Sismanis, Konstantinos
+AU  - Potikas, Petros
+AU  - Souliou, Dora
+AU  - Pagourtzis, Aris
+DA  - 2025/2//
+DO  - 10.1016/j.future.2024.107529
+KW  - GAT
+KW  - GCN
+KW  - GNN
+KW  - Overlapping community detection
+KW  - Representation learning
+PB  - Elsevier B.V.
+PY  - 2025
+TI  - Overlapping community detection using graph attention networks
+T2  - Future Generation Computer Systems
+VL  - 163
+ER  -
